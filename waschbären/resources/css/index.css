@@ -1,0 +1,96 @@
+.banner {
+  background-color: #30362F;
+  background-image: url(/resources/images/waschb.webp);
+  background-size: cover;
+  background-position: 0 70%;
+  color: white;
+  margin-top: 50px;
+  text-align: center;
+  padding: 100px 0px;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h1 + p {
+    font-size: 20px;
+}
+
+#helfen {
+    margin-top: 20px;
+    background-color: #FFFBDB;
+    border-radius: 10px;
+    padding: 10px;
+    border: none;
+    filter: drop-shadow(2px 2px 2px black);
+    font-weight: bold;
+}
+
+#helfen:hover {
+    background-color: #30362F;
+}
+
+#Waschbären {
+    color: #30362F;
+    font-size: 100px;
+}
+
+.bold {
+    font-weight: 900;
+}
+
+.navbar {
+    background-color: #FFFBDB;
+    position: fixed;
+    width: 100%;
+    top: 0;
+}
+
+.navbar li {
+    display: inline-block;
+    padding: 0px 20px;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: #30362F;
+    font-weight: bold;
+}
+
+#home-icon {
+    height:25px;
+    margin-bottom: -5px;
+    margin-right: 50px;
+    margin-left: -40px;
+}
+
+p {
+    font-size: 2em;
+}
+
+.inlineblock {
+    display: inline-block;
+}
+
+#greets ul {
+    list-style-type: none;
+}
+
+.main {
+    padding: 20px 50px;
+}
+
+.avatar {
+    background-image: url(../images/Group\ 1.svg);
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    background-color:#FFFBDB;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: px;
+}
