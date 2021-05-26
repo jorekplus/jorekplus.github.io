@@ -1,6 +1,6 @@
 .banner {
   background-color: #30362F;
-  background-image: url(/resources/images/waschb.webp);
+  background-image: url(./resources/images/waschb.webp);
   background-size: cover;
   background-position: 0 70%;
   color: white;
